@@ -17,6 +17,6 @@ k8s.gcr.io/etcd:3.3.10-1
 registry
 uifd/ui-for-docker
 joxit/docker-registry-ui
-Elasticsearch:8.4.3
-Logstash:8.4.3
-Kibana:8.4.3
+elasticsearch:8.4.3
+logstash:8.4.3
+kibana:8.4.3
