@@ -22,3 +22,4 @@ logstash:8.4.3
 kibana:8.4.3
 nicejade/markdown-online-editor:stable
 centos:centos7.9.2009
+ubuntu:plucky-20241213
