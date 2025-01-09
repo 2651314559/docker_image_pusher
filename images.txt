@@ -24,3 +24,6 @@ nicejade/markdown-online-editor:stable
 centos:centos7.9.2009
 ubuntu:plucky-20241213
 nginx:1.27
+jenkins:2.60.3
+minio/minio:RELEASE.2024-12-18T13-15-44Z.fips
+bitnami/mongodb:latest
