@@ -27,3 +27,5 @@ nginx:1.27
 jenkins:2.60.3
 minio/minio:RELEASE.2024-12-18T13-15-44Z.fips
 bitnami/mongodb:latest
+grafana/grafana:11.4.0
+bitnami/prometheus:2.55.1
