@@ -29,3 +29,7 @@ minio/minio:RELEASE.2024-12-18T13-15-44Z.fips
 bitnami/mongodb:latest
 grafana/grafana:11.4.0
 bitnami/prometheus:2.55.1
+bitnami/git:2.47.1
+gitlab-runner:17.7.0
+gitlab-runner:15.9.1
+gitlab/gitlab-ce:17.7.0-ce.0
