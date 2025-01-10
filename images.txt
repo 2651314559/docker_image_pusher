@@ -35,3 +35,4 @@ gitlab/gitlab-runner:v15.9.1
 gitlab/gitlab-ce:17.7.0-ce.0
 jenkins/jenkins:2.479.3-lts
 jenkins/jenkins:2.479.3-lts-jdk17
+jenkins/jenkins:2.492
