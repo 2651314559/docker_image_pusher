@@ -37,3 +37,4 @@ jenkins/jenkins:2.479.3-lts
 jenkins/jenkins:2.479.3-lts-jdk17
 jenkins/jenkins:2.492
 maven:3.9.9-eclipse-temurin-23-alpine
+bitnami/keycloak
