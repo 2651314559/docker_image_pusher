@@ -7,3 +7,10 @@ xhofe/alist:latest
 mysql:8.0.39-debian
 redis
 ghcr.io/open-webui/open-webui:main
+kube-apiserver:v1.28.0
+kube-controller-manager:v1.28.0
+kube-scheduler:v1.28.0
+kube-proxy:v1.28.0
+pause:3.9
+etcd:3.5.9-0
+coredns:v1.10.1
