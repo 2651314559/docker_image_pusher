@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:8.0.39-debian
 redis
 calico/cni:v3.25.0
+calico/node:v3.25.0
