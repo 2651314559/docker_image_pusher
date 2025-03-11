@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.39-debian
 redis
-ghcr.io/open-webui/open-webui:main
-calico/cni:v3.25.
+calico/cni:v3.25.0
