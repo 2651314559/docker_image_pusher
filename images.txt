@@ -1,10 +1,7 @@
-redis/redis-stack:7.4.0-v6-x86_64
-elasticsearch:8.11.4
-logstash:8.11.4
-kibana:8.11.4
-bitnami/prometheus:3.4.1
-grafana/grafana:12.2.0-17660687647
-redis:8.2.1
-ubuntu:22.04
-debian:12.12
-debian:12.12-slim
+prom/alertmanager:v0.26.0
+bitnami/node-exporter:1.9.1
+google/cadvisor:v0.32.0
+prom/mysqld-exporter:v0.17.1
+oliver006/redis_exporter:v1.77.0
+nginx/nginx-prometheus-exporter:1.4.2
+bitnami/mongodb-exporter:0.46.0
