@@ -1,7 +1,2 @@
 prom/alertmanager:v0.26.0
-bitnami/node-exporter:1.9.1
-google/cadvisor:v0.32.0
-prom/mysqld-exporter:v0.17.1
-oliver006/redis_exporter:v1.77.0
-nginx/nginx-prometheus-exporter:1.4.2
-bitnami/mongodb-exporter:0.46.0
+kubernetesui/dashboard:v2.7.0
