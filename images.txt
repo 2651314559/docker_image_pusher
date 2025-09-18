@@ -1,3 +1,1 @@
-prom/alertmanager:v0.26.0
-kubernetesui/dashboard:v2.7.0
-kubernetesui/metrics-scraper:v1.0.8
+nfs-subdir-external-provisioner:v4.0.2
