@@ -1,3 +1,4 @@
 eipwork/nfs-subdir-external-provisioner:v4.0.2
 flowable/flowable-ui:6.8.0
 kylemanna/openvpn:2.4
+jenkins/jenkins:2.529
